@@ -1,1 +1,2 @@
 Hello It's file2 
+that's line 2
