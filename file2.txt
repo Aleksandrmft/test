@@ -1,1 +1,2 @@
-Hello It's file2 
+Hello It's file2
+line 3  
